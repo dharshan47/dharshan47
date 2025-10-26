@@ -1,6 +1,6 @@
-<!-- Dharshan (Dharshan M) - Modern GitHub Profile README -->
+<!-- Dharshan M - Modern GitHub Profile README -->
 
-<h1 align="center" style="text-shadow:0 0 5px #2F80ED; animation:glow 2.5s infinite ease-in-out;">
+<h1 align="center" style="text-shadow:0 0 5px #2F80ED;">
   Hi 👋, I'm <span style="color:#2F80ED;">Dharshan M</span>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=700&color=2F80ED&center=true&vCenter=true&width=600&lines=Web+Developer;Front-End+Developer;React+Developer" alt="Typing Roles" />
@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me  
 💡 Passionate **Front-End & React Developer** crafting responsive, high-performance, and user-friendly web applications.  
 🚀 Turning creative ideas into modern, pixel-perfect UIs with smooth animations.  
-🧠 Continuously learning **Next.js**, **TypeScript**, and cutting-edge design systems.  
+🧠 Continuously learning **Next.js**, **TypeScript**, and advanced UI systems.  
 🌍 Based in India | 💬 Open to collaboration and exciting projects.
 
 ---
@@ -48,6 +48,18 @@
 
 ---
 
+### 🆕 Recent Technologies I’m Using
+<p align="center" style="margin-top:10px;">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,react,prisma" style="margin:6px;"/>
+</p>
+
+<p align="center" style="margin-top:5px;">
+  <img src="https://img.shields.io/badge/Better%20Auth-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white" height="28" style="margin:4px;"/>
+  <img src="https://img.shields.io/badge/ShadCN_UI-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="28" style="margin:4px;"/>
+</p>
+
+---
+
 ### ✨ GitHub Stats  
 
 <div align="center" style="margin-top:20px;">
@@ -57,15 +69,31 @@
 
 ---
 
+### 📄 Resume & Portfolio
+
+<div align="center" style="margin-top:15px;">
+  <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration:none;">
+    <button style="background:linear-gradient(90deg,#2F80ED,#1CB5E0);color:white;border:none;padding:10px 20px;border-radius:10px;font-weight:600;cursor:pointer;box-shadow:0 0 10px rgba(47,128,237,0.6);transition:0.3s;">🌐 View Portfolio</button>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://your-resume-link.com" target="_blank" style="text-decoration:none;">
+    <button style="background:linear-gradient(90deg,#00C6FF,#0072FF);color:white;border:none;padding:10px 20px;border-radius:10px;font-weight:600;cursor:pointer;box-shadow:0 0 10px rgba(0,114,255,0.6);transition:0.3s;">📄 View Resume</button>
+  </a>
+</div>
+
+---
+
 ### 🌐 Connect with Me  
 
 <div align="center" style="margin-top:10px;">
-  <a href="https://linkedin.com/in/dharshan47" target="_blank">
+  <a href="https://linkedin.com/in/dharshan47" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn" style="margin:6px;"/>
   </a>
-  <a href="mailto:dharshan0747@gmail.com" target="_blank">
+  <a href="mailto:dharshan0747@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" alt="Gmail" style="margin:6px;"/>
   </a>
 </div>
 
 ---
+
+⭐ *Crafted with style by <span style="color:#2F80ED;">Dharshan M</span> — Web Developer | Front-End | React Developer 💻*
