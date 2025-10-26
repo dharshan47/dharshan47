@@ -1,11 +1,9 @@
 <!-- Dharshan (Dharshan M) - Modern GitHub Profile README -->
 
 <h1 align="center" style="text-shadow:0 0 5px #2F80ED; animation:glow 2.5s infinite ease-in-out;">
-  Hi 👋, I'm <span style="color:#2F80ED;">Dharshan (Dharshan M)</span>
+  Hi 👋, I'm <span style="color:#2F80ED;">Dharshan M</span>
   <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=700&color=2F80ED&center=true&vCenter=true&width=600&lines=Web+Developer;Front-End+Developer;React+Developer" alt="Typing Roles" />
-  <br/><br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6714/6714978.png" width="40px" alt="Dark Mode Icon" title="Dark Mode Ready 🌙" style="filter:drop-shadow(0 0 5px #2F80ED);margin-top:10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=1500&pause=400&color=2F80ED&center=true&vCenter=true&width=600&lines=Web+Developer;Front-End+Developer;React+Developer" alt="Typing Roles" />
 </h1>
 
 ---
@@ -43,7 +41,7 @@
 #### ☁️ **Auth & Deployment**
 <p align="center" style="margin:10px 0;">
   <img src="https://skillicons.dev/icons?i=netlify,vercel" style="margin:6px;"/>  
-  <img src="https://img.shields.io/badge/Better%20Auth-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white" height="28" style="margin:4px;"/>
+  <img src="https://img.shields.io/badge/Better%20Auth-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white" height="28" style="margin:-4px;"/>
 </p>
 
 </div>
