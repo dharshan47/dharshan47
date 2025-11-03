@@ -68,9 +68,6 @@
   <a href="mailto:dharshan0747@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" alt="Gmail" />
   </a>
-  <a href="https://dharshan-portfolio.netlify.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="45px" alt="Portfolio" />
-  </a>
   <a href="https://drive.google.com/your-resume-link" target="_blank">
     <img src="https://img.icons8.com/fluency/48/resume.png" width="45px" alt="Resume" />
   </a>
@@ -87,4 +84,3 @@
 
 ---
 
-> ✨ *"Code. Create. Inspire."* — Building modern web experiences with creativity and precision.
