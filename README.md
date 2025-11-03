@@ -1,18 +1,21 @@
 <!-- Dharshan (Dharshan M) - Modern GitHub Profile README -->
 
-<h1 align="center" style="text-shadow:0 0 5px #2F80ED; animation:glow 2.5s infinite ease-in-out;">
+<h1 align="center">
   Hi 👋, I'm <span style="color:#2F80ED;">Dharshan M</span>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=700&color=2F80ED&center=true&vCenter=true&width=600&lines=Web+Developer;Front-End+Developer;React+Developer" alt="Typing Roles" />
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2500&pause=700&color=2F80ED&center=true&vCenter=true&width=600&lines=Web+Developer;Front-End+Developer;React+Developer;UI%2FUX+Learner" alt="Typing Roles" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me  
-💡 Passionate **Front-End & React Developer** crafting responsive, high-performance, and user-friendly web applications.  
-🚀 Turning creative ideas into modern, pixel-perfect UIs with smooth animations.  
-🧠 Continuously learning **Next.js**, **TypeScript**, and cutting-edge design systems.  
-🌍 Based in India | 💬 Open to collaboration and exciting projects.
+
+💡 Passionate **Front-End & React Developer** crafting responsive, high-performance, and visually stunning web interfaces.  
+🚀 I enjoy turning creative ideas into clean, functional, and pixel-perfect UIs.  
+🎯 Currently learning **Next.js**, **TypeScript**, and **modern design systems**.  
+🌍 Based in India | 💬 Open to collaboration and exciting frontend projects.
 
 ---
 
@@ -21,52 +24,67 @@
 <div align="center">
 
 #### ⚙️ **Frontend & UI**
-<p align="center" style="margin:10px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" style="margin:6px;"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 </p>
 
-<!-- Shadcn UI + React Hook Form + Zod + React Icons -->
-<p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:8px;">
-  <img src="https://img.shields.io/badge/ShadCN_UI-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="28" style="margin:4px;"/> 
-  <img src="https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" height="28" style="margin:4px;"/>
-  <img src="https://img.shields.io/badge/Zod-%231E88E5.svg?style=for-the-badge&logo=zod&logoColor=white" height="28" style="margin:4px;"/>
-  <img src="https://img.shields.io/badge/React_Icons-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" height="28" style="margin:4px;"/>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" title="Shadcn UI" />
+  <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="45" title="React Hook Form" />
+  <img src="https://avatars.githubusercontent.com/u/39895671?s=200&v=4" width="45" title="React Icons" />
+  <img src="https://skillicons.dev/icons?i=framer" width="45" title="Framer Motion" />
 </p>
 
 #### 🗄️ **Backend / Database**
-<p align="center" style="margin:10px 0;">
-  <img src="https://skillicons.dev/icons?i=prisma,mysql" style="margin:6px;"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,mysql" />
 </p>
 
 #### ☁️ **Auth & Deployment**
-<p align="center" style="margin:10px 0;">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel" style="margin:6px;"/>  
-  <img src="https://img.shields.io/badge/Better%20Auth-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white" height="28" style="margin:-4px;"/>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" width="45" title="Better Auth" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
 </div>
 
 ---
 
-### ✨ GitHub Stats  
+### 📊 GitHub Stats  
 
-<div align="center" style="margin-top:20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharshan47&show_icons=true&theme=tokyonight" height="160" style="margin:6px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshan47&theme=tokyonight" height="160" style="margin:6px;"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharshan47&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dharshan47&theme=tokyonight" height="160" />
 </div>
 
 ---
 
 ### 🌐 Connect with Me  
 
-<div align="center" style="margin-top:10px;">
+<div align="center">
   <a href="https://linkedin.com/in/dharshan47" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn" style="margin:6px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn" />
   </a>
   <a href="mailto:dharshan0747@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" alt="Gmail" style="margin:6px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" alt="Gmail" />
+  </a>
+  <a href="https://dharshan-portfolio.netlify.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="45px" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/your-resume-link" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/resume.png" width="45px" alt="Resume" />
   </a>
 </div>
 
 ---
 
+### 🪄 Portfolio Links  
+
+- 🌐 **Portfolio:** [https://dharshan-portfolio.netlify.app](https://dharshan-portfolio.netlify.app)  
+- 📄 **Resume:** [View Resume](https://drive.google.com/your-resume-link)  
+- 💌 **Email:** [dharshan0747@gmail.com](mailto:dharshan0747@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/dharshan47](https://linkedin.com/in/dharshan47)  
+
+---
+
+> ✨ *"Code. Create. Inspire."* — Building modern web experiences with creativity and precision.
