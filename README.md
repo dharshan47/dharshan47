@@ -53,12 +53,12 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=dharshan47&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+   src="https://github-readme-stats-dharshan47.vercel.app/api?username=dharshan47&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
     height="165" 
     alt="GitHub Stats"
   />
    <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan47&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+    src="https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
     height="195" 
     alt="Top Languages"
   />
