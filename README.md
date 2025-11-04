@@ -69,24 +69,10 @@
 ### 🌐 Connect with Me  
 
 <div align="center">
-  <a href="https://linkedin.com/in/dharshan47" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" style="border-radius:10px;" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dharshan0747@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" style="border-radius:10px;" alt="Gmail" />
-  </a>
-  <a href="https://drive.google.com/your-resume-link" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/resume.png" width="45px" style="border-radius:10px;" alt="Resume" />
-  </a>
+  - <img src="https://img.icons8.com/fluency/48/domain.png" width="20px" style="vertical-align:middle; border-radius:5px;" /> **Portfolio:** [https://dharshan-portfolio.netlify.app](https://dharshan-portfolio.netlify.app)  
+- <img src="https://img.icons8.com/fluency/48/resume.png" width="20px" style="vertical-align:middle; border-radius:5px;" /> **Resume:** [View Resume](https://drive.google.com/your-resume-link)  
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20px" style="vertical-align:middle; border-radius:5px;" /> **Email:** [dharshan0747@gmail.com](mailto:dharshan0747@gmail.com)  
+- <img src="https://skillicons.dev/icons?i=linkedin" width="20px" style="vertical-align:middle; border-radius:5px;" /> **LinkedIn:** [linkedin.com/in/dharshan47](https://linkedin.com/in/dharshan47)  
 </div>
-
----
-
-### 🪄 Portfolio Links  
-
-- 🌐 **Portfolio:** [https://dharshan-portfolio.netlify.app](https://dharshan-portfolio.netlify.app)  
-- 📄 **Resume:** [View Resume](https://drive.google.com/your-resume-link)  
-- 💌 **Email:** [dharshan0747@gmail.com](mailto:dharshan0747@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/dharshan47](https://linkedin.com/in/dharshan47)  
 
 ---
