@@ -68,21 +68,24 @@
 
 ### 🌐 Connect with Me  
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/domain.png" width="20px" style="vertical-align:middle; border-radius:5px;" />  
-  <strong>Portfolio:</strong>  
-  <a href="https://dharshan-portfolio.netlify.app" target="_blank">https://dharshan-portfolio.netlify.app</a>  
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="22px" style="vertical-align:middle; margin-right:8px;" />
+  <strong>Portfolio:</strong>
+  <a href="https://dharshan-portfolio.netlify.app" target="_blank">https://dharshan-portfolio.netlify.app</a>
   <br/><br/>
-  <img src="https://img.icons8.com/fluency/48/resume.png" width="20px" style="vertical-align:middle; border-radius:5px;" />  
-  <strong>Resume:</strong>  
-  <a href="https://drive.google.com/your-resume-link" target="_blank">View Resume</a>  
+
+  <img src="https://img.icons8.com/fluency/48/resume.png" width="22px" style="vertical-align:middle; margin-right:8px;" />
+  <strong>Resume:</strong>
+  <a href="https://drive.google.com/your-resume-link" target="_blank">View Resume</a>
   <br/><br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20px" style="vertical-align:middle; border-radius:5px;" />  
-  <strong>Email:</strong>  
-  <a href="mailto:dharshan0747@gmail.com">dharshan0747@gmail.com</a>  
+
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22px" style="vertical-align:middle; margin-right:8px;" />
+  <strong>Email:</strong>
+  <a href="mailto:dharshan0747@gmail.com">dharshan0747@gmail.com</a>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=linkedin" width="20px" style="vertical-align:middle; border-radius:5px;" />  
-  <strong>LinkedIn:</strong>  
+
+  <img src="https://skillicons.dev/icons?i=linkedin" width="22px" style="vertical-align:middle; margin-right:8px;" />
+  <strong>LinkedIn:</strong>
   <a href="https://linkedin.com/in/dharshan47" target="_blank">linkedin.com/in/dharshan47</a>
 </p>
 
