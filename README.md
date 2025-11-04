@@ -29,10 +29,9 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" title="Shadcn UI" />
-  <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="45" title="React Hook Form" />
-  <img src="https://avatars.githubusercontent.com/u/39895671?s=200&v=4" width="45" title="React Icons" />
-  <img src="https://skillicons.dev/icons?i=framer" width="45" title="Framer Motion" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" style="border-radius:10px;" title="Shadcn UI" />
+  <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="45" style="border-radius:10px;" title="React Hook Form" />
+  <img src="https://avatars.githubusercontent.com/u/39895671?s=200&v=4" width="45" style="border-radius:10px;" title="React Icons" />
 </p>
 
 #### 🗄️ **Backend / Database**
@@ -42,7 +41,7 @@
 
 #### ☁️ **Auth & Deployment**
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" width="45" title="Better Auth" />
+  <img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" width="45" style="border-radius:10px;" title="Better Auth" />
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
@@ -53,9 +52,13 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharshan47&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dharshan47&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dharshan47&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dharshan47&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan47&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+</p>
 
 ---
 
@@ -63,13 +66,13 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/dharshan47" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" style="border-radius:10px;" alt="LinkedIn" />
   </a>
   <a href="mailto:dharshan0747@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" alt="Gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" style="border-radius:10px;" alt="Gmail" />
   </a>
   <a href="https://drive.google.com/your-resume-link" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/resume.png" width="45px" alt="Resume" />
+    <img src="https://img.icons8.com/fluency/48/resume.png" width="45px" style="border-radius:10px;" alt="Resume" />
   </a>
 </div>
 
@@ -83,4 +86,3 @@
 - 💼 **LinkedIn:** [linkedin.com/in/dharshan47](https://linkedin.com/in/dharshan47)  
 
 ---
-
