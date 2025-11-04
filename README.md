@@ -57,10 +57,15 @@
     height="165" 
     alt="GitHub Stats"
   />
-   <img 
+  <img 
     src="https://github-readme-stats-dharshan47.vercel.app/api/top-langs/?username=dharshan47&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
     height="195" 
     alt="Top Languages"
+  />
+  <br/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dharshan47&theme=tokyo-night&hide_border=true&custom_title=🔥%202025%20Contribution%20Graph"
+    alt="2025 Contribution Graph"
   />
 </div>
 
