@@ -62,11 +62,6 @@
     height="195" 
     alt="Top Languages"
   />
-  <br/>
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dharshan47&theme=tokyo-night&hide_border=true&custom_title=🔥%202025%20Contribution%20Graph"
-    alt="2025 Contribution Graph"
-  />
 </div>
 
 ---
