@@ -36,7 +36,7 @@
 
 #### 🗄️ **Backend / Database**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,mysql" />
+  <img src="https://skillicons.dev/icons?i=prisma,mysql,neon" />
 </p>
 
 #### ☁️ **Auth & Deployment**
