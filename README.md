@@ -72,7 +72,7 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dharshanm.vercel.app-blue?style=flat-square&logo=google-chrome">
   </a>
 
-  <a href="https://github.com/dharshan47/portfolio/blob/main/public/Dharshan%20M%20Resume.pdf">
+  <a href="https://dharshanm.vercel.app/Dharshan%20M%20Resume.pdf">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-View%20Resume-green?style=flat-square&logo=readme">
   </a>
 
