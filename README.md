@@ -31,7 +31,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" style="border-radius:10px;" title="Shadcn UI" />
   <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="45" style="border-radius:10px;" title="React Hook Form" />
-  <img src="https://avatars.githubusercontent.com/u/39895671?s=200&v=4" width="45" style="border-radius:10px;" title="React Icons" />
 </p>
 
 #### 🗄️ **Backend / Database**
@@ -73,7 +72,7 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dharshanm.vercel.app-blue?style=flat-square&logo=google-chrome">
   </a>
 
-  <a href="https://github.com/dharshan47/portfolio/public/Dharshan M Resume">
+  <a href="https://github.com/dharshan47/portfolio/public/Dharshan M Resume.pdf">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-View%20Resume-green?style=flat-square&logo=readme">
   </a>
 
