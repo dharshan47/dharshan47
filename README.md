@@ -69,11 +69,11 @@
 ### 🌐 Connect with Me  
 
 <p align="center">
- <a href="https://dharshanm.vercel.app.app/">
+ <a href="https://dharshanm.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dharshanm.vercel.app-blue?style=flat-square&logo=google-chrome">
   </a>
 
-  <a href="https://drive.google.com/your-resume-link">
+  <a href="https://github.com/dharshan47/portfolio/public/Dharshan M Resume">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-View%20Resume-green?style=flat-square&logo=readme">
   </a>
 
