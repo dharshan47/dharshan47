@@ -68,7 +68,7 @@
 
 ### 🌐 Connect with Me  
 
-<div align="center">
+<p align="center">
  <a href="https://dharshanm.vercel.app.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dharshanm.vercel.app-blue?style=flat-square&logo=google-chrome">
   </a>
@@ -84,6 +84,6 @@
   <a href="https://linkedin.com/in/dharshan47">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dharshan47-blue?style=flat-square&logo=linkedin">
   </a>
-</div>
+</p>
 
 ---
