@@ -67,22 +67,13 @@
 
 ### 🌐 Connect with Me  
 
-<p align="center">
- <a href="https://dharshanm.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dharshanm.vercel.app-blue?style=flat-square&logo=google-chrome">
-  </a>
+## Connect with Me
 
-  <a href="https://dharshanm.vercel.app/Dharshan%20M%20Resume.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-View%20Resume-green?style=flat-square&logo=readme">
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dharshanm.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readme&logoColor=white)](YOUR_RESUME_LINK)
+[![View Resume](https://img.shields.io/badge/View_Resume-8BC34A?style=for-the-badge)](YOUR_RESUME_LINK)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharshan0747@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshan47)
 
-  <a href="mailto:dharshan0747@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-dharshan0747%40gmail.com-red?style=flat-square&logo=gmail">
-  </a>
-
-  <a href="https://linkedin.com/in/dharshan47">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dharshan47-blue?style=flat-square&logo=linkedin">
-  </a>
-</p>
 
 ---
