@@ -69,34 +69,34 @@
 
 <p align="center">
 
+  <!-- Portfolio -->
   <a href="https://dharshanm.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-  <br />
+  <br /><br />
 
+  <!-- Resume -->
   <a href="YOUR_RESUME_LINK">
     <img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 
-  <br />
+  <br /><br />
 
+  <!-- Email -->
   <a href="mailto:dharshan0747@gmail.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br />
-  <b>dharshan0747@gmail.com</b>
 
-  <br />
+  <br /><br />
 
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/dharshan47">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <br />
-  <b>dharshan47</b>
+ 
 
 </p>
-
 
 
 
