@@ -23,7 +23,7 @@
 
 <div align="center">
 
-#### ⚙️ **Frontend & UI**
+#### ⚙️ **Frontend**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 </p>
@@ -33,14 +33,15 @@
   <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="45" style="border-radius:10px;" title="React Hook Form" />
 </p>
 
-#### 🗄️ **Backend / Database**
+#### 🗄️ **Backend **
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prisma,mysql" />
+  <img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" width="45" style="border-radius:10px;" title="Better Auth" />
 </p>
 
 #### ☁️ **Auth & Deployment**
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" width="45" style="border-radius:10px;" title="Better Auth" />
+  
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
