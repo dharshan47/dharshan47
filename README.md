@@ -33,15 +33,14 @@
   <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="45" style="border-radius:10px;" title="React Hook Form" />
 </p>
 
-#### 🗄️ **Backend **
+#### 🗄️ **Backend**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prisma,mysql" />
   <img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" width="45" style="border-radius:10px;" title="Better Auth" />
 </p>
 
 #### ☁️ **Auth & Deployment**
-<p align="center">
-  
+<p align="center"> 
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
