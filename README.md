@@ -21,59 +21,26 @@
 
 ### 🧰 Tech Stack  
 
-<div align="center">
+#### ⚙️ Frontend  
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-<!-- ================= FRONTEND ================= -->
+#### 🗄️ Backend  
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
 
-#### ⚙️ <b>Frontend</b>
-
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="50"/><br>Redux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" style="border-radius:10px;"/><br>Shadcn UI</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="45" style="border-radius:10px;"/><br>React Hook Form</td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ================= BACKEND ================= -->
-
-#### 🗄️ <b>Backend</b>
-
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="50"/><br>Prisma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" width="45" style="border-radius:10px;"/><br>Better Auth</td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ================= DEPLOYMENT ================= -->
-
-#### ☁️ <b> Deployment</b>
-
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="50"/><br>Netlify</td>
-  </tr>
-</table>
-
-</div>
+#### ☁️ Auth & Deployment  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 ---
