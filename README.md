@@ -35,8 +35,8 @@
 
 #### 🗄️ Backend  
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-0effff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDI1NiAyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9Im5vbmUiLz4KICA8aW1hZ2UgeD0iMCIgeT0iMCIgd2lkdGg9IjE5MSIgaGVpZ2h0PSIxOTEiIHhsaW5rOmhyZWY9IiNsaXZlcm95ZXMiIHhsaW5rOmhyZWY9IiNsaXZlcm95ZXMiIHhsaW5rOmhyZWY9IiNsaXZlcm95ZXMiIHhsaW5rOmhyZWY9IiNsaXZlcm95ZXMiIHhsaW5rOmhyZWY9IiNsaXZlcm95ZXMiIHN0eWxlPSJ3aWR0aDoxMjBweDsiIHhsaW5rOmhyZWY9IiNsaXZlcm95ZXMiIHhsaW5rOmhyZWY9IiNsaXZlcm95ZXMiIiBocmVmPSJodHRwczovL2F2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzc3NjkwNjM0L3M9MjAwJmI9NGY0IiBmaWxsPSIjZmZmIi8+Cjwvc3ZnPgo=)
-![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=https://avatars.githubusercontent.com/u/163827765?s=200&v=4&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00ffe1?style=for-the-badge) 
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge) 
 
 #### ☁️ Auth & Deployment  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
