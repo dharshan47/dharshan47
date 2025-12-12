@@ -23,28 +23,58 @@
 
 <div align="center">
 
-#### ⚙️ **Frontend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
-</p>
+<!-- ================= FRONTEND ================= -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" style="border-radius:10px;" title="Shadcn UI" />
-  <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="45" style="border-radius:10px;" title="React Hook Form" />
-</p>
+#### ⚙️ <b>Frontend</b>
 
-#### 🗄️ **Backend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,mysql" />
-  <img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" width="45" style="border-radius:10px;" title="Better Auth" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="50"/><br>Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45" style="border-radius:10px;"/><br>Shadcn UI</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="45" style="border-radius:10px;"/><br>React Hook Form</td>
+  </tr>
+</table>
 
-#### ☁️ **Auth & Deployment**
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
+<br>
+
+<!-- ================= BACKEND ================= -->
+
+#### 🗄️ <b>Backend</b>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="50"/><br>Prisma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/163827765?s=200&v=4" width="45" style="border-radius:10px;"/><br>Better Auth</td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ================= DEPLOYMENT ================= -->
+
+#### ☁️ <b> Deployment</b>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="50"/><br>Netlify</td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
