@@ -66,7 +66,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dharshanm.vercel.app)
 [![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readme&logoColor=white)](https://dharshanm.vercel.app/Dharshan%20M%20Resume.pdf)
-[![dharshan0747@gmail.com](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharshan0747@gmail.com)
+[![Gmail](https://img.shields.io/badge/dharshan0747%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharshan0747@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharshan47)
 
 
